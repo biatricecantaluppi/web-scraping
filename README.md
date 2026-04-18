@@ -24,6 +24,5 @@ O projeto foi estruturado seguindo princípios de responsabilidade única:
 4- Execução: Rodar node index.js. O resultado aparecerá em uma tabela.
 
 ## Visualização do projeto.
-<img width="1352" height="719" alt="img-teste-web-scraping" src="https://github.com/user-attachments/assets/58041485-3055-493b-ae21-b5ff6629dba4" />
 <img width="1352" height="719" alt="img-teste-web-scraping" src="https://github.com/user-attachments/assets/0ba39980-edf6-4921-92c9-a7392a9ec7fc" />
 <img width="1352" height="672" alt="tenisnike" src="https://github.com/user-attachments/assets/954fe105-15f7-4af4-90b3-5f44cd7f077c" />
