@@ -1,4 +1,5 @@
-Web Scraping 
+# Web Scraping 
+
 Este projeto é um web scraper desenvolvido em Node.js para extrair informações de produtos do site Netshoes.
 O produto escolhido foi o Tênis Nike Revolution 8 Feminino.
 
